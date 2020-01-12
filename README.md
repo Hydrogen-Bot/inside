@@ -8,7 +8,7 @@ This website is for developers to upload images and get a custom img link. type 
 </head>
 
 <body>
-  <img src="Your discord image url"></img>  
+  <img src="Your image url / path to your file"></img>  
 <body>
 ```
 
