@@ -14,6 +14,6 @@ This website is for developers to upload images and get a custom img link. type 
 
 let's say this file is `discord.html`
 
-go to this link: https://hydrogen-bot.github.io/img/discord
+go to this link: https://hydrogen-bot.github.io/inside/img/discord
 
 and you will find the image.
